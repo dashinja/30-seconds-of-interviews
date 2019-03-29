@@ -8,7 +8,7 @@ In HTML, the attribute name is in all lowercase and is given a string invoking a
 <button onclick="handleClick()"></button>
 ```
 
-In React, the attribute name is camelCase and are passed the function reference inside curly braces:
+In React, the attribute name is camelCase and is passed the function reference inside curly braces:
 
 ```js
 <button onClick={handleClick} />
@@ -29,11 +29,11 @@ function handleClick(e) {
 
 #### Good to hear
 
-* HTML uses lowercase, React uses camelCase.
+- HTML uses lowercase, React uses camelCase.
 
 ##### Additional links
 
-* [React docs on Handling Events](https://reactjs.org/docs/handling-events.html)
+- [React docs on Handling Events](https://reactjs.org/docs/handling-events.html)
 
 <!-- tags: (react,javascript,html) -->
 
